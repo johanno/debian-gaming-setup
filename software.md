@@ -7,3 +7,4 @@
 5. Whatsapp for linux
 6. Blender
 7. Lutris
+8. Gimp
