@@ -1,6 +1,8 @@
 #Iscsi setup
 
 https://www.thomas-krenn.com/de/wiki/ISCSI_unter_Linux_mounten
+    
+    sudo apt install open-iscsi
 
     sudo iscsiadm -m discovery -t sendtargets -p IP_Adresse:3260 
 
